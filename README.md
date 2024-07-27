@@ -1,6 +1,6 @@
 # Proyecto Chat Comunitario
 
-Este Chat comunitario esta siendo actualizado a medida que progran el curso de BackEnd en CoderHouse
+Este Chat comunitario esta siendo actualizado a medida que aprendo el curso de BackEnd en CoderHouse
 
 ## Comenzando 🚀
 
